@@ -24,10 +24,10 @@ This repository contains the end-to-end transformation of unverified, inconsiste
 ## 📊 Visual Proof / Spreadsheet Preview
 
 ### 1. Job Cards Operational Log
-![Job Cards Tab](screenshot1.png)
+![Job Cards Tab](Job_Cards_&_Attendance_Log.png)
 
 ### 2. Assets & Regional Infrastructure Tracking
-![Assets Tab](screenshot2.png)
+![Assets Tab](Regional%20Assets.png)
 
 ### 3. Staff Directory & Validation Data
-![Staff Directory Tab](screenshot3.png)
+![Staff Directory Tab](Field_Staff_Directory.png)
