@@ -20,3 +20,14 @@ This repository contains the end-to-end transformation of unverified, inconsiste
 ## 📁 Files in this Repository
 1. `Mangaung_Raw_Field_Data.txt` - The original messy field log document.
 2. `Mangaung_EPWP_Data_Capture_Tool.xlsx` - The finished, standardized 3-tab workbook.
+
+## 📊 Visual Proof / Spreadsheet Preview
+
+### 1. Job Cards Operational Log
+![Job Cards Tab](screenshot1.png)
+
+### 2. Assets & Regional Infrastructure Tracking
+![Assets Tab](screenshot2.png)
+
+### 3. Staff Directory & Validation Data
+![Staff Directory Tab](screenshot3.png)
