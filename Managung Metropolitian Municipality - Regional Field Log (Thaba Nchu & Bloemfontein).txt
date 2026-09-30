@@ -1,0 +1,61 @@
+================================================================================
+MANGAUNG METROPOLITAN MUNICIPALITY — REGIONAL FIELD LOG (THABA NCHU & BLOEMFONTEIN)
+================================================================================
+Instructions: Capture this unverified raw field data into your data capture tool.
+Create separate tabs for: [1] Regional Assets, [2] Staff Directory, [3] Job Cards.
+Ensure you clean all inconsistent dates, correct text casing, and restore missing leading zeros!
+
+--------------------------------------------------------------------------------
+1. REGIONAL ASSETS (Capture into "Regional Assets" tab)
+--------------------------------------------------------------------------------
+Asset ID: WM-041-A  Type: Water Meter  Location: Thaba Nchu Unit 1, Ward 41   Status: Functional
+Asset ID: LT-012-H  Type: High-Mast Light  Location: Bloemfontein CBD, Ward 12 Status: Faulty
+Asset ID: PK-037-G  Type: Public Park  Location: Selosesha, Ward 37  Status: Maintained
+Asset ID: WM-005-B  Type: Water Meter  Location: Heidedal, Ward 5  Status: Leaking
+Asset ID: LT-043-H  Type: High-Mast Light  Location: Thaba Nchu Unit 4, Ward 43 Status: Functional
+
+--------------------------------------------------------------------------------
+2. FIELD STAFF DIRECTORY (Capture into "Staff Directory" tab)
+--------------------------------------------------------------------------------
+ID: 8904125800083   Name: lerato mokoena   Cell: 831234567   Region: Thaba Nchu      Role: Plumber
+ID 9111235100087    Name: Johan Pretorius  Cell: 072-987-6543 Region: Bloemfontein   Role: Electrician
+ID: 9407055400081   NAME: MOEKETSI LEKHOA  0613332211        Region: Thaba Nchu      Role: General Worker
+ID:8602285200089    Name: Sarah Van Wyk    0824445566        Region: Bloemfontein    Role: Inspector
+ID 9710155900082    Name: Thabo Modise     no cell given     Region: Thaba Nchu      Role: General Worker
+
+--------------------------------------------------------------------------------
+3. JOB CARDS & ATTENDANCE LOG (Capture into "Job Cards" tab)
+--------------------------------------------------------------------------------
+Note: Plumbers log "Meters Repaired". Electricians log "Lights Serviced". 
+General Workers log "Sqm Grass Cut".
+
+Mon 3 Aug 2026:
+- Lerato Mokoena - completed, fixed 4 meters at WM-041-A, took 6.5 hours
+- Johan Pretorius - completed, serviced 2 high-mast lights in CBD, full day 8hrs
+- Moeketsi Lekhoa - present, cleared approx 1200 sqm grass at Selosesha Park, 8h
+- Sarah Van Wyk - completed 3 site inspections, found 1 major leak, 8 hours
+- Thabo Modise - ABSENT (reported sick, no medical certificate)
+
+Tue 4 Aug 2026:
+- L. Mokoena - present 8 hrs, routine pressure testing across Ward 41
+- J. Pretorius - emergency callout, replaced control box at LT-012-H, 5.5 hours
+- M. Lekhoa - present 8h, assisted electricity team with branch clearing
+- S. Van Wyk - absent (family responsibility leave)
+- T. Modise - back at work, cleared 900 sqm grass at Thaba Nchu Unit 4, 8h
+
+Wed 5 Aug 2026:
+- all field staff present for full 8-hour shift, regular regional maintenance cleanup
+
+Thu 6 Aug 2026:
+- Lerato Mokoena - completed, replaced 2 leaking valves at Heidedal WM-005-B, 7h
+- Johan Pretorius - present 8h, routine substation checks
+- Moeketsi Lekhoa - ABSENT (no reason given, unpaid leave)
+- Sarah Van Wyk - present 8, completed monthly status report calculations
+- Thabo Modise - present, cleared 1400 sqm grass at Selosesha, 8 hours
+
+Fri 7 Aug 2026:
+- Lerato Mokoena - half day 4hrs, attended municipal union meeting
+- Johan Pretorius - present 8h, closed 3 pending electrical tickets
+- Moeketsi Lekhoa - present, cleared 1000 sqm grass, left 2 hours early (transport)
+- Sarah Van Wyk - present 8, finalized asset register update
+- Thabo Modise - present 8h, tool storage cleanup and maintenance inventory
