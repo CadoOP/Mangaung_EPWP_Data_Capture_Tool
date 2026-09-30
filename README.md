@@ -1,6 +1,6 @@
 # Mangaung_EPWP_Data_Capture_Tool
 
-# Mangaung EPWP Data Capture Tool
+# Mangaung EPWP Data Capture Tool 
 
 An Excel data-cleaning project using simulated EPWP field logs modelled on Mangaung Metropolitan Municipality operations, turning messy raw notes into a structured three-tab workbook.
 
